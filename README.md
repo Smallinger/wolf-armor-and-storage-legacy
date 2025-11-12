@@ -4,6 +4,8 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.10-green.svg)](https://www.minecraft.net/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+[!Logo](https://github.com/Smallinger/wolf-armor-and-storage-legacy/blob/main/.github/media/logo.png?raw=true)
+
 A Minecraft mod that brings wolf armor and storage capabilities to your tamed wolves, now updated for NeoForge 1.21.10.
 
 ## ✨ Features
