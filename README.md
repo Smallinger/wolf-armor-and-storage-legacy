@@ -112,7 +112,7 @@ cd wolf-armor-and-storage-legacy/NeoForge\ 1.21.10
 
 ## 🙏 Credits
 
-- **Original Mod Author**: [Sabarishi](https://github.com/sabarishi) (Minecraft 1.12.2)
+- **Original Mod Author**: [satyrnidae](https://github.com/satyrnidae/wolf-armor-and-storage-legacy) (Minecraft 1.12.2)
 - **NeoForge Port**: [Smallinger](https://github.com/Smallinger/wolf-armor-and-storage-legacy)
 - Enhanced with auto-heal and moon howling features
 
