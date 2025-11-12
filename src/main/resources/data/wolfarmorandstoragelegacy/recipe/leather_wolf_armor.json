@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " H ",
+    "XBX",
+    " B "
+  ],
+  "key": {
+    "X": "minecraft:leather",
+    "H": "minecraft:leather_helmet",
+    "B": "minecraft:leather_boots"
+  },
+  "result": {
+    "id": "wolfarmorandstoragelegacy:leather_wolf_armor"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "itemGroup.wolfarmorandstoragelegacy": "Wolf Armor and Storage",
+  
+  "item.wolfarmorandstoragelegacy.leather_wolf_armor": "Leather Wolf Armor",
+  "item.wolfarmorandstoragelegacy.copper_wolf_armor": "Copper Wolf Armor",
+  "item.wolfarmorandstoragelegacy.chainmail_wolf_armor": "Chainmail Wolf Armor",
+  "item.wolfarmorandstoragelegacy.iron_wolf_armor": "Iron Wolf Armor",
+  "item.wolfarmorandstoragelegacy.golden_wolf_armor": "Golden Wolf Armor",
+  "item.wolfarmorandstoragelegacy.diamond_wolf_armor": "Diamond Wolf Armor",
+  "item.wolfarmorandstoragelegacy.netherite_wolf_armor": "Netherite Wolf Armor",
+  "item.wolfarmorandstoragelegacy.wolf_chest": "Wolf Chest",
+  
+  "item.wolfarmorandstoragelegacy.wolf_armor.defense": "Defense: %s",
+  "item.wolfarmorandstoragelegacy.wolf_armor.toughness": "Toughness: %s",
+  "item.wolfarmorandstoragelegacy.wolf_armor.knockback_resistance": "Knockback Resistance: %s",
+
+  "container.wolfarmorandstoragelegacy.wolf_inventory": "Wolf Chest",
+  
+  "gui.wolfarmorandstoragelegacy.armor": "Armor",
+  "gui.wolfarmorandstoragelegacy.health": "Health",
+  "gui.wolfarmorandstoragelegacy.chest": "Chest",
+
+  "subtitles.entity.wolf.howl": "Wolf howls",
+
+  "wolfarmorandstoragelegacy.configuration.title": "Wolf Armor and Storage Legacy Configs",
+  "wolfarmorandstoragelegacy.configuration.section.wolfarmorandstoragelegacy.common.toml": "Wolf Armor and Storage Legacy Configs",
+  "wolfarmorandstoragelegacy.configuration.section.wolfarmorandstoragelegacy.common.toml.title": "Wolf Armor and Storage Legacy Configs",
+  "wolfarmorandstoragelegacy.configuration.items": "Item List",
+  "wolfarmorandstoragelegacy.configuration.logDirtBlock": "Log Dirt Block",
+  "wolfarmorandstoragelegacy.configuration.magicNumberIntroduction": "Magic Number Text",
+  "wolfarmorandstoragelegacy.configuration.magicNumber": "Magic Number"
+}

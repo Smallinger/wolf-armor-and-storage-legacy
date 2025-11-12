@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " H ",
+    "XBX",
+    " B "
+  ],
+  "key": {
+    "X": "minecraft:diamond",
+    "H": "minecraft:diamond_helmet",
+    "B": "minecraft:diamond_boots"
+  },
+  "result": {
+    "id": "wolfarmorandstoragelegacy:diamond_wolf_armor"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " H ",
+    "XBX",
+    " B "
+  ],
+  "key": {
+    "X": "minecraft:iron_ingot",
+    "H": "minecraft:iron_helmet",
+    "B": "minecraft:iron_boots"
+  },
+  "result": {
+    "id": "wolfarmorandstoragelegacy:iron_wolf_armor"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wolf_body": [
+      {
+        "texture": "wolfarmorandstoragelegacy:chainmail/wolf_body",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

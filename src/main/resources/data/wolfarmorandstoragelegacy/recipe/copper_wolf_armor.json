@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " H ",
+    "XBX",
+    " B "
+  ],
+  "key": {
+    "X": "minecraft:copper_ingot",
+    "H": "#minecraft:wool",
+    "B": "minecraft:leather_boots"
+  },
+  "result": {
+    "id": "wolfarmorandstoragelegacy:copper_wolf_armor"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "itemGroup.wolfarmorandstoragelegacy": "Wolf Armor and Storage",
+  
+  "item.wolfarmorandstoragelegacy.leather_wolf_armor": "Leder-Wolfsrüstung",
+  "item.wolfarmorandstoragelegacy.copper_wolf_armor": "Kupfer-Wolfsrüstung",
+  "item.wolfarmorandstoragelegacy.chainmail_wolf_armor": "Kettenhemd-Wolfsrüstung",
+  "item.wolfarmorandstoragelegacy.iron_wolf_armor": "Eisen-Wolfsrüstung",
+  "item.wolfarmorandstoragelegacy.golden_wolf_armor": "Gold-Wolfsrüstung",
+  "item.wolfarmorandstoragelegacy.diamond_wolf_armor": "Diamant-Wolfsrüstung",
+  "item.wolfarmorandstoragelegacy.netherite_wolf_armor": "Netherit-Wolfsrüstung",
+  "item.wolfarmorandstoragelegacy.wolf_chest": "Wolfskiste",
+  
+  "item.wolfarmorandstoragelegacy.wolf_armor.defense": "Verteidigung: %s",
+  "item.wolfarmorandstoragelegacy.wolf_armor.toughness": "Härte: %s",
+  "item.wolfarmorandstoragelegacy.wolf_armor.knockback_resistance": "Rückstoßresistenz: %s",
+
+  "container.wolfarmorandstoragelegacy.wolf_inventory": "Wolfskiste",
+
+  "wolfarmorandstoragelegacy.configuration.title": "Wolf Armor and Storage Legacy Konfiguration",
+  "wolfarmorandstoragelegacy.configuration.section.wolfarmorandstoragelegacy.common.toml": "Wolf Armor and Storage Legacy Konfiguration",
+  "wolfarmorandstoragelegacy.configuration.section.wolfarmorandstoragelegacy.common.toml.title": "Wolf Armor and Storage Legacy Konfiguration",
+  "wolfarmorandstoragelegacy.configuration.items": "Item-Liste",
+  "wolfarmorandstoragelegacy.configuration.logDirtBlock": "Schmutzblock loggen",
+  "wolfarmorandstoragelegacy.configuration.magicNumberIntroduction": "Magische Zahl Text",
+  "wolfarmorandstoragelegacy.configuration.magicNumber": "Magische Zahl"
+}

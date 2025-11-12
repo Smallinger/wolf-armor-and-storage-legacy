@@ -1,0 +1,15 @@
+{
+  "wolf_howl": {
+    "subtitle": "subtitles.entity.wolf.howl",
+    "sounds": [
+      {
+        "name": "wolfarmorandstoragelegacy:howl1",
+        "stream": false
+      },
+      {
+        "name": "wolfarmorandstoragelegacy:howl2",
+        "stream": false
+      }
+    ]
+  }
+}

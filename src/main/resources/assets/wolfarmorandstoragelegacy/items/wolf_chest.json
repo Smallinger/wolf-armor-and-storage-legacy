@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "wolfarmorandstoragelegacy:item/wolf_chest"
+  },
+  "properties": {
+    "oversized_in_gui": true
+  }
+}

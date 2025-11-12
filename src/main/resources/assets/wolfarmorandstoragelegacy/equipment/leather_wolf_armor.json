@@ -1,0 +1,17 @@
+{
+  "layers": {
+    "wolf_body": [
+      {
+        "texture": "wolfarmorandstoragelegacy:leather/wolf_body",
+        "dyeable": {
+          "color_when_undyed": 10511680
+        },
+        "use_player_texture": false
+      },
+      {
+        "texture": "wolfarmorandstoragelegacy:leather/wolf_body_overlay",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

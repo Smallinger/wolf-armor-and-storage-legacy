@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "wolfarmorandstoragelegacy:item/copper_wolf_armor"
+  }
+}
